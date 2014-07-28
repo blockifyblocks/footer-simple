@@ -1,0 +1,14 @@
+.footer-simple {
+	background-color: #e5e5e5;
+	padding: 32px 0;
+	color: #999;
+	text-align: center;
+}
+
+.footer-simple nav ul {
+	padding: 0;
+}
+
+.footer-simple nav ul li {
+	display: inline-block;
+}

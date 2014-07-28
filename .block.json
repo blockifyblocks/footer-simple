@@ -1,0 +1,18 @@
+{
+  "name": "footer-simple",
+  "description": "Simple footer block.",
+  "keywords": "footer",
+  "template": {
+    "@type": "Thing"
+  },
+  "homepage": "https://github.com/blockifyblocks/footer-simple",
+  "_release": "4e9066a35c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4e9066a35c0c8ec94dd8f8aa0579384d844fe668"
+  },
+  "_source": "git://github.com/blockifyblocks/footer-simple.git",
+  "_target": "*",
+  "_originalSource": "footer-simple"
+}
